@@ -88,6 +88,4 @@ The `main.cpp` file serves as the entry point for the application. It demonstrat
 ## **Acknowledgments**
 
 This project was developed as part of an academic assignment for the **Object-Oriented Programming** course. Special thanks to my instructors  for their guidance and support.
-# OOP-StoreManagement
-# OOP-StoreManagement
-# OOP-StoreManagement
+
