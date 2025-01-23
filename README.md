@@ -67,7 +67,7 @@ The `main.cpp` file serves as the entry point for the application. It demonstrat
    - Visual Studio Code IDE with a configured GCC compiler.
 
 2. **Build the Project**:
-   - Open the project in Code::Blocks.
+   - Open the project in Visual Studio Code.
    - Add all `.cpp` and `.h` files to the project.
    - Build and compile the project.
 
